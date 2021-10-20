@@ -1,0 +1,62 @@
+[
+    {
+        "afbeelding": "",
+        "afkorting": "HA",
+        "omschrijving": "Haakarmvoertuig",
+        "vanaf": "1 Bak",
+        "kosten": "5.000 credits / 12 coins",
+        "opleiding": "Brandweerchauffeur-zwaar",
+        "duur": "2d",
+        "personeel": "1-3"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "ABH",
+        "omschrijving": "Adembeschermingshaakarmbak",
+        "vanaf": "5 posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "COH",
+        "omschrijving": "Commandohaakarmbak",
+        "vanaf": "14 posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DPH",
+        "omschrijving": "Dompelpomphaakarmbak",
+        "vanaf": "7 posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "WTH",
+        "omschrijving": "Watertankhaakarmbak",
+        "vanaf": "7 posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "HVH",
+        "omschrijving": "Hulpverleningshaakarmbak",
+        "vanaf": "4 posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    }
+]
