@@ -1,0 +1,72 @@
+[
+    {
+        "afbeelding": "",
+        "afkorting": "Ambulance",
+        "omschrijving": "Ambulance",
+        "vanaf": "",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "Zorg-Ambulance",
+        "omschrijving": "B-Ambulacne",
+        "vanaf": "",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "OVD-G",
+        "omschrijving": "Officier van Dienst Geneeskunde",
+        "vanaf": "8 Posten",
+        "kosten": "25.000 credits / 25 coins",
+        "opleiding": "Officier van Dienst Geneeskunde",
+        "duur": "11d",
+        "personeel": "1"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RR",
+        "omschrijving": "Rapid Responder",
+        "vanaf": "",
+        "kosten": "2.500 credits / 18 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DA-OVDG-RR",
+        "omschrijving": "Dienstauto Officier van Dienst Geneeskunde - Rapid Responder",
+        "vanaf": "",
+        "kosten": "27.500 credits / 25 coins",
+        "opleiding": "Officier van Dienst Geneeskunde",
+        "duur": "11d",
+        "personeel": "1"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "Lifeliner",
+        "omschrijving": "Lifeliner",
+        "vanaf": "10 Posten",
+        "kosten": "300.000 credits / 30 coins",
+        "opleiding": "MMT-Arts",
+        "duur": "7d",
+        "personeel": "1-4"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "MMT-Auto",
+        "omschrijving": "MMT-Auto",
+        "vanaf": "10 Posten",
+        "kosten": "30.000 credits / 12 coins",
+        "opleiding": "MMT-Arts",
+        "duur": "7d",
+        "personeel": "1-4"
+    }
+]
