@@ -11,12 +11,16 @@ fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kosteno
           data.forEach((itemData) => {
             console.log(itemData)
             temp += "<tr>";
-            temp += "<td>" + itemData.id + "</td>";
-            temp += "<td>" + itemData.name + "</td>";
-            temp += "<td> Credits " + itemData.price.credits + " / coins " + itemData.price.coins + "</td>";
-            temp += "<td>" + itemData.staff.min + "/" + itemData.staff.max + "</td></tr>";
+            temp += "<td>" + `<img src=${itemData.afbeelding}></img >` + "</td>";
+            temp += "<td>" + itemData.afkorting + "</td>";
+            temp += "<td>" + itemData.omschrijving + "</td>";
+            temp += "<td>" + itemData.vanaf + "</td>";
+            temp += "<td>" + itemData.kosten + "</td>";
+            temp += "<td>" + itemData.opleiding + "</td>";
+            temp += "<td>" + itemData.duur + "</td>";
+            temp += "<td>" + itemData.personeel + "</td></tr>";
           });
-          document.getElementById('test1').innerHTML = temp;
+          document.getElementById('Blusvoertuigen').innerHTML = temp;
         }
       }
     )
