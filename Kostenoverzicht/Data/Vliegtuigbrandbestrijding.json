@@ -1,6 +1,6 @@
 [
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/007/008/original/TLF8-8.png",
         "afkorting": "CT (4x4)",
         "omschrijving": "Crashtender (4x4)",
         "vanaf": "",
@@ -10,7 +10,7 @@
         "personeel": "2-3"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/006/646/original/Crashtender6x6.png",
         "afkorting": "CT (6x6)",
         "omschrijving": "Crashtender (6x6)",
         "vanaf": "",
@@ -20,7 +20,7 @@
         "personeel": "2-3"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/006/476/original/Crashtender8x8.png",
         "afkorting": "CT (8x8)",
         "omschrijving": "Crashtender (8x8)",
         "vanaf": "",
@@ -30,7 +30,7 @@
         "personeel": "2-3"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/007/009/original/OVD2.png",
         "afkorting": "AFO/OSC",
         "omschrijving": "Airport Fire Officer /On Scene Commander",
         "vanaf": "",

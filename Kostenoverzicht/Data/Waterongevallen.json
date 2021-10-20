@@ -1,6 +1,6 @@
 [
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/002/321/original/WO.png",
         "afkorting": "WO",
         "omschrijving": "Waterongevallenvoertuig",
         "vanaf": "",
@@ -10,7 +10,7 @@
         "personeel": "4-6"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/003/638/original/WOA.png",
         "afkorting": "WOA",
         "omschrijving": "Waterongevallenaanhanger",
         "vanaf": "",
@@ -20,7 +20,7 @@
         "personeel": "0"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/013/470/original/PM-ORT.png",
         "afkorting": "PM-OR",
         "omschrijving": "Materieelvoertuig - Oppervlakteredding",
         "vanaf": "",
@@ -30,7 +30,7 @@
         "personeel": "4-9"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/013/937/original/TST8-9.png",
         "afkorting": "TS-OR",
         "omschrijving": "Tankautospuit - Oppervlakteredding",
         "vanaf": "",
