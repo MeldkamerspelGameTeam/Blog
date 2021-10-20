@@ -1,5 +1,5 @@
 // blusvoertuigen
-fetch("../Data/Blusvoertuigen.json").then(
+fetch("https://meldkamerspelgameteam.github.io/Blog/Kostenoverzicht/Data/Blusvoertuigen.json").then(
   res => {
     res.json().then(
       data => {
