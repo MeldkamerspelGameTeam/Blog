@@ -1,0 +1,42 @@
+[
+    {
+        "afbeelding": "",
+        "afkorting": "WO",
+        "omschrijving": "Waterongevallenvoertuig",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Duiker/Duikploegleider",
+        "duur": "7d",
+        "personeel": "4-6"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "WOA",
+        "omschrijving": "Waterongevallenaanhanger",
+        "vanaf": "",
+        "kosten": "9.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "PM-OR",
+        "omschrijving": "Materieelvoertuig - Oppervlakteredding",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Oppervlakteredder",
+        "duur": "7d",
+        "personeel": "4-9"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "TS-OR",
+        "omschrijving": "Tankautospuit - Oppervlakteredding",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Oppervlakteredder",
+        "duur": "7d",
+        "personeel": "4-9"
+    }
+]
