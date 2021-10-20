@@ -1,0 +1,122 @@
+[
+    {
+        "afbeelding": "",
+        "afkorting": "DA Noodhulp",
+        "omschrijving": "Dienstauto Noodhulp",
+        "vanaf": "",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB Noodhulp",
+        "omschrijving": "Dienstbus Noodhulp",
+        "vanaf": "",
+        "kosten": "6.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DM Noodhulp",
+        "omschrijving": "Dienstmotor Noodhulp",
+        "vanaf": "",
+        "kosten": "2.500 credits / 18 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "OvD-P",
+        "omschrijving": "Officier van Dienst - Politie",
+        "vanaf": "5 Posten",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Officier van Dienst - Politie",
+        "duur": "7d",
+        "personeel": "1"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "ME-Commando",
+        "omschrijving": "ME Commandovoertuig",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Mobiele Eenheid",
+        "duur": "7d",
+        "personeel": "1-3"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "ME-Flexbus",
+        "omschrijving": "ME Groepsvoertuig",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Mobiele Eenheid",
+        "duur": "7d",
+        "personeel": "4-8"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DA Hondengeleider",
+        "omschrijving": "Dienstauto Hondengeleider",
+        "vanaf": "",
+        "kosten": "8.000 credits / 25 coins",
+        "opleiding": "Hondengeleider",
+        "duur": "7d",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB Hondengeleider",
+        "omschrijving": "Dienstbus Hondengeleider",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Hondengeleider",
+        "duur": "7d",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "AT-C",
+        "omschrijving": "AT - Commandant",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Operator AT",
+        "duur": "10d",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "AT-O",
+        "omschrijving": "AT - Operater",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Operator AT",
+        "duur": "10d",
+        "personeel": "2-4"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "AT-M",
+        "omschrijving": "AT - Materiaalwagen",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "Operator AT",
+        "duur": "10d",
+        "personeel": "1-2"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "Politiehelikopter",
+        "omschrijving": "Politiehelikopter",
+        "vanaf": "",
+        "kosten": "300.000 credits / 30 coins",
+        "opleiding": "Politiehelikopter",
+        "duur": "10d",
+        "personeel": "1-2"
+    }
+]
