@@ -1,10 +1,5 @@
 // blusvoertuigen
-fetch("https://meldkamerspelgameteam.github.io/Blog/Kostenoverzicht/Data/Blusvoertuigen.json", {
-  headers: {
-    'Content-Type': 'application/json',
-    'Accept': 'application/json'
-  }
-}).then(
+fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kostenoverzicht/Data/Blusvoertuigen.json").then(
   res => {
     res.json().then(
       data => {
