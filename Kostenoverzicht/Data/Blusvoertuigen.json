@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "SI-2",
+        "price": {
+            "credits": 5000,
+            "coins": 15
+        },
+        "staff": {
+            "min": 1,
+            "max": 2
+        }
+    }
+]
