@@ -1,0 +1,42 @@
+[
+    {
+        "afbeelding": "",
+        "afkorting": "CT (4x4)",
+        "omschrijving": "Crashtender (4x4)",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "Vliegtuigbrandbestrijding",
+        "duur": "7d",
+        "personeel": "2-3"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "CT (6x6)",
+        "omschrijving": "Crashtender (6x6)",
+        "vanaf": "",
+        "kosten": "40.000 credits / 25 coins",
+        "opleiding": "Vliegtuigbrandbestrijding",
+        "duur": "7d",
+        "personeel": "2-3"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "CT (8x8)",
+        "omschrijving": "Crashtender (8x8)",
+        "vanaf": "",
+        "kosten": "60.000 credits / 25 coins",
+        "opleiding": "Vliegtuigbrandbestrijding",
+        "duur": "7d",
+        "personeel": "2-3"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "AFO/OSC",
+        "omschrijving": "Airport Fire Officer /On Scene Commander",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "Airport Fire Officer / On Scene Commander",
+        "duur": "7d",
+        "personeel": "1-2"
+    }
+]
