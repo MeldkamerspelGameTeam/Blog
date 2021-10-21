@@ -90,6 +90,16 @@
         "personeel": "4-8"
     },
     {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/029/867/original/ME-AE.png",
+        "afkorting": "ME-AE",
+        "omschrijving": "ME - Aanhoudingseenheid",
+        "vanaf": "",
+        "kosten": "20.000 credits / 25 coins",
+        "opleiding": "ME-Aanhoudingseenheid",
+        "duur": "5d",
+        "personeel": "6-8"
+    },
+    {
         "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/010/333/original/DA_DHG.png",
         "afkorting": "DA Hondengeleider",
         "omschrijving": "Dienstauto Hondengeleider",

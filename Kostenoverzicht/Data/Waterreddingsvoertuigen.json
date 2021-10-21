@@ -1,0 +1,32 @@
+[
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/364/original/DAT-RB-1.png",
+        "afkorting": "DAT-RB",
+        "omschrijving": "Dienstauto Terreinwaardig- Reddingsbrigade",
+        "vanaf": "",
+        "kosten": "7.500 credits / 15 coins",
+        "opleiding": "Waterredding",
+        "duur": "3d",
+        "personeel": "2-3"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/540/original/KHV.png",
+        "afkorting": "KHV",
+        "omschrijving": "Kusthulpverleningsvoertuig",
+        "vanaf": "",
+        "kosten": "8.000 credits / 15 coins",
+        "opleiding": "Waterredding",
+        "duur": "3d",
+        "personeel": "2-6"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/365/original/BA-RB.png",
+        "afkorting": "BA-RB",
+        "omschrijving": "Bootaanhanger Reddingsbrigade",
+        "vanaf": "",
+        "kosten": "5.000 credits / 15 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0"
+    }
+]
