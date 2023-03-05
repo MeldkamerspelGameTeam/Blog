@@ -1,0 +1,112 @@
+[
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/001/original/SI-2.png",
+        "afkorting": "SI-2",
+        "omschrijving": "Snel Inzetbare Eenheid",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "1-2",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/010/original/TS_45_Scania.png",
+        "afkorting": "TS 4/5",
+        "omschrijving": "Tankautospuit",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "4-5",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/009/original/TST-NBB_4.png",
+        "afkorting": "TST 4/5",
+        "omschrijving": "Tankautospuit Terreinvaardig",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "4-5",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/017/original/TST4_Scania.png",
+        "afkorting": "TST-NB 4/5",
+        "omschrijving": "Tankautospuit Terreinvaardig Natuurbrand Bestrijding",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "4-5",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/018/original/TS_67_MB.png",
+        "afkorting": "TS 6/7",
+        "omschrijving": "Tankautospuit",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "6-7",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/008/original/TST6-7.png",
+        "afkorting": "TST 6/7",
+        "omschrijving": "Tankautospuit Terreinvaardig",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "6-7",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/016/original/TSTNBB67.png",
+        "afkorting": "TST-NB 6/7",
+        "omschrijving": "Tankautospuit Terreinvaardig Natuurbrand Bestrijding",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "6-7",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/002/original/TS_89_DAF.png",
+        "afkorting": "TS 8/9",
+        "omschrijving": "Tankautospuit",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "8-9",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/007/original/TST8-9.png",
+        "afkorting": "TST 8/9",
+        "omschrijving": "Tankautospuit Terreinvaardig",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "8-9",
+        "groep": "Blusvoertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/014/original/TSNBB89.png",
+        "afkorting": "TST-NB 8/9",
+        "omschrijving": "Tankautospuit Terreinvaardig Natuurbrand Bestrijding",
+        "vanaf": "1 Post",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "8-9",
+        "groep": "Blusvoertuigen"
+    }
+]
