@@ -317,5 +317,93 @@
         "duur": "",
         "personeel": "0",
         "groep": "Overige voertuigen"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/001/262/original/HA.png",
+        "afkorting": "HA",
+        "omschrijving": "Haakarmvoertuig",
+        "vanaf": "1 Bak",
+        "kosten": "5.000 credits / 12 coins",
+        "opleiding": "Brandweerchauffeur-zwaar",
+        "duur": "2d",
+        "personeel": "1-3",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/001/330/original/ABH.png",
+        "afkorting": "ABH",
+        "omschrijving": "Adembeschermingshaakarmbak",
+        "vanaf": "5 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/002/060/original/COH.png",
+        "afkorting": "COH",
+        "omschrijving": "Commandohaakarmbak",
+        "vanaf": "14 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/008/432/original/DPH.png",
+        "afkorting": "DPH",
+        "omschrijving": "Dompelpomphaakarmbak",
+        "vanaf": "7 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/001/896/original/WTH.png",
+        "afkorting": "WTH",
+        "omschrijving": "Watertankhaakarmbak",
+        "vanaf": "7 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/027/635/original/SLH.png",
+        "afkorting": "SLH",
+        "omschrijving": "Slangenhaakarmbak",
+        "vanaf": "7 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/014/548/original/HVH.png",
+        "afkorting": "HVH",
+        "omschrijving": "Hulpverleningshaakarmbak",
+        "vanaf": "4 Posten",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/034/093/original/SBH.png",
+        "afkorting": "SBH",
+        "omschrijving": "Schuimblushaakarmbak",
+        "vanaf": "",
+        "kosten": "10.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
     }
 ]
