@@ -671,7 +671,7 @@
         "groep": "politie"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/police_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/043/218/original/BB-VW.png?1679680783",
         "afkorting": "VW-BB",
         "omschrijving": "Vrachtwagen – Bereden Brigade",
         "vanaf": "",
@@ -682,7 +682,7 @@
         "groep": "politie"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/police_trailer.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/043/219/original/BB-A.png?1679680798",
         "afkorting": "BB-A",
         "omschrijving": "Bereden Brigade Aanhanger",
         "vanaf": "",
@@ -693,7 +693,7 @@
         "groep": "politie"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/police_sprinter.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/043/052/original/DAT-Hilux.png?1678533092",
         "afkorting": "DAT-NH",
         "omschrijving": "Dienstauto terreinvaardig - Noodhulp",
         "vanaf": "",
@@ -836,7 +836,7 @@
         "groep": "kustwacht"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_quad.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/043/051/original/Quad-RB.png?1678532886",
         "afkorting": "Quat",
         "omschrijving": "Quad Reddingsbrigade",
         "vanaf": "",
@@ -847,7 +847,7 @@
         "groep": "kustwacht"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/green_boat.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/039/766/original/Valentijn.png?1677955746",
         "afkorting": "KW-boot",
         "omschrijving": "Kustwacht boot",
         "vanaf": "",
@@ -858,7 +858,7 @@
         "groep": "kustwacht"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_boat.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/039/766/original/Valentijn.png?1677955746",
         "afkorting": "RB-K",
         "omschrijving": "Reddingsboot klein",
         "vanaf": "",
@@ -869,7 +869,7 @@
         "groep": "kustwacht"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_boat.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/039/767/original/MKS_ArieVisser.png?1678532771",
         "afkorting": "RB-G",
         "omschrijving": "Reddingsboot groot",
         "vanaf": "",
@@ -880,7 +880,7 @@
         "groep": "kustwacht"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_helicopter_rescue.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/039/765/original/KW-AW189-1.png?1678535406",
         "afkorting": "SAR-heli",
         "omschrijving": "SAR helikopter",
         "vanaf": "",
