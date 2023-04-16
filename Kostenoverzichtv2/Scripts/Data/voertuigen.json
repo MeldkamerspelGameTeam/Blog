@@ -790,5 +790,93 @@
         "duur": "7d",
         "personeel": "1-4",
         "groep": "ambu"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/364/original/DAT-RB-1.png",
+        "afkorting": "DAT-RB",
+        "omschrijving": "Dienstauto Terreinwaardig- Reddingsbrigade",
+        "vanaf": "",
+        "kosten": "7.500 credits / 15 coins",
+        "opleiding": "Waterredding",
+        "duur": "3d",
+        "personeel": "2-3",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/540/original/KHV.png",
+        "afkorting": "KHV",
+        "omschrijving": "Kusthulpverleningsvoertuig",
+        "vanaf": "",
+        "kosten": "8.000 credits / 15 coins",
+        "opleiding": "Waterredding",
+        "duur": "3d",
+        "personeel": "2-6",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/031/365/original/BA-RB2.png",
+        "afkorting": "BA-RB",
+        "omschrijving": "Bootaanhanger Reddingsbrigade",
+        "vanaf": "",
+        "kosten": "5.000 credits / 15 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_quad.png",
+        "afkorting": "Quat",
+        "omschrijving": "Quad Reddingsbrigade",
+        "vanaf": "",
+        "kosten": "5.000 credits / 10 coins",
+        "opleiding": "Waterredding",
+        "duur": "3d",
+        "personeel": "1",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/green_boat.png",
+        "afkorting": "KW-boot",
+        "omschrijving": "Kustwacht boot",
+        "vanaf": "",
+        "kosten": "50.000 credits / 25 coins",
+        "opleiding": "Groot vaarbewijs(1x) / Water handhaving(1x)",
+        "duur": "7d / 5d",
+        "personeel": "2-6",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_boat.png",
+        "afkorting": "RB-K",
+        "omschrijving": "Reddingsboot klein",
+        "vanaf": "",
+        "kosten": "35.000 credits / 25 coins",
+        "opleiding": "Groot vaarbewijs",
+        "duur": "7d",
+        "personeel": "2-4",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_boat.png",
+        "afkorting": "RB-G",
+        "omschrijving": "Reddingsboot groot",
+        "vanaf": "",
+        "kosten": "45.000 credits / 25 coins",
+        "opleiding": "Groot vaarbewijs",
+        "duur": "7d",
+        "personeel": "2-6",
+        "groep": "kustwacht"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_helicopter_rescue.png",
+        "afkorting": "SAR-heli",
+        "omschrijving": "SAR helikopter",
+        "vanaf": "",
+        "kosten": "300.000 credits / 30 coins",
+        "opleiding": "SAR Helicopter",
+        "duur": "7d",
+        "personeel": "2-3",
+        "groep": "kustwacht"
     }
 ]
