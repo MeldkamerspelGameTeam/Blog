@@ -38,6 +38,11 @@ const VoertuigGroepen = [
         "name": "kustwacht",
         "display": "Kustwacht",
         "table": "Oranje"
+    },
+    {
+        "name": "rws",
+        "display": "Rijkswaterstaat",
+        "table": "Geel"
     }
 ]
 
