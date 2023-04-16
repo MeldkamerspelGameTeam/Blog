@@ -48,7 +48,7 @@ const VoertuigGroepen = [
 
 var voertuigen = []
 
-fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/kostenv2/Kostenoverzichtv2/Scripts/Data/voertuigen.json").then(
+fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kostenoverzichtv2/Scripts/Data/voertuigen.json").then(
     res => {
         res.json().then(
             data => {
