@@ -30,8 +30,18 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
-        "name": "politie",
-        "display": "Politievoertuigen",
+        "name": "politie_opkomst",
+        "display": "Politievoertuigen, Opkomstbureau",
+        "table": "Blauw"
+    },
+    {
+        "name": "politie_hoofd",
+        "display": "Politievoertuigen, Hoofdbureau",
+        "table": "Blauw"
+    },
+    {
+        "name": "politie_heli",
+        "display": "Politievoertuigen, Helikoperstandplaats",
         "table": "Blauw"
     },
     {
