@@ -283,7 +283,7 @@
         "opleiding": "Brandweerchauffeur-zwaar",
         "duur": "2d",
         "personeel": "2-3",
-        "groep": "Overige voertuigen"
+        "groep": "schuim"
     },
     {
         "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/034/111/original/SBA.png",
@@ -294,7 +294,7 @@
         "opleiding": "",
         "duur": "",
         "personeel": "0",
-        "groep": "Overige voertuigen"
+        "groep": "schuim"
     },
     {
         "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/034/112/original/MSA.png",

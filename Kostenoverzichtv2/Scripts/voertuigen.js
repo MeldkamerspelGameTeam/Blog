@@ -25,6 +25,11 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
+        "name": "schuim",
+        "display": "Schuimblussing",
+        "table": "Rood"
+    },
+    {
         "name": "politie",
         "display": "Politievoertuigen",
         "table": "Blauw"
