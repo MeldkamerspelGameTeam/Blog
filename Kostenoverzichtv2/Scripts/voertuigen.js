@@ -96,6 +96,7 @@ function Verwerkvoertuigen() {
         html += "</thead >"
         html += "<tbody>"
         var voertuigenInGroep = voertuigen.filter(v => v.groep === VoertuigGroepen[groep].name)
+        voertuigenInGroep.sort((a, b) => (a.afkorting > b.afkorting) ? 1 : -1)
         var temp = "";
         voertuigenInGroep.forEach((voertuig) => {
             temp += "<tr>";
