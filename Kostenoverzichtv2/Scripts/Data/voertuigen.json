@@ -977,5 +977,93 @@
         "duur": "2d",
         "personeel": "2",
         "groep": "nbb"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "TS-STH",
+        "omschrijving": "Tankautospuit – Specialisme Technische Hulpverlening",
+        "vanaf": "",
+        "kosten": "25.000 credits / 25 coins",
+        "opleiding": "Teamleider STH(2x) / Teamlid STH(5x)",
+        "duur": "7d / 5d",
+        "personeel": "7",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
+        "afkorting": "HVH-STH",
+        "omschrijving": "Hulpverleningshaakarmbak-Specialisme Technische Hulpverlening",
+        "vanaf": "",
+        "kosten": "6.000 credits / 12 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "DB-USAR",
+        "omschrijving": "Dienstbus – Urban Search and Rescue",
+        "vanaf": "",
+        "kosten": "8.000 credits / 25 coins",
+        "opleiding": "Teamlid USAR",
+        "duur": "7d",
+        "personeel": "1",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "TS-USAR",
+        "omschrijving": "Tankautospuit – Urban Search and Rescue",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Teamlid USAR",
+        "duur": "7d",
+        "personeel": "5-9",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "VW-USAR",
+        "omschrijving": "Vrachtwagen – Urban Search and Rescue",
+        "vanaf": "",
+        "kosten": "35.000 credits / 25 coins",
+        "opleiding": "Brandweerchauffeur-zwaar",
+        "duur": "2d",
+        "personeel": "2",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_motorcycle.png",
+        "afkorting": "DM-USAR",
+        "omschrijving": "Dienstmotor – Urban Search and Rescue",
+        "vanaf": "",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "Teamlid USAR",
+        "duur": "7d",
+        "personeel": "1",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_quad.png",
+        "afkorting": "Quad-USAR",
+        "omschrijving": "Quat – Urban Search and Rescue",
+        "vanaf": "",
+        "kosten": "5.000 credits / 25 coins",
+        "opleiding": "Teamlid USAR",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "sth"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_dogs.png",
+        "afkorting": "DB–Speurhonden",
+        "omschrijving": "Dienstbus – Speurhonden",
+        "vanaf": "",
+        "kosten": "10.000 credits / 25 coins",
+        "opleiding": "Hondengeleider USAR",
+        "duur": "8d",
+        "personeel": "2-4",
+        "groep": "sth"
     }
 ]
