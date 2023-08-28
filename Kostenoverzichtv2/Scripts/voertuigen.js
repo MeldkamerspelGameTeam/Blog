@@ -30,6 +30,11 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
+        "name": "nbb",
+        "display": "Natuurbrandbestrijding",
+        "table": "Rood"
+    },
+    {
         "name": "politie_opkomst",
         "display": "Politievoertuigen, Opkomstbureau",
         "table": "Blauw"

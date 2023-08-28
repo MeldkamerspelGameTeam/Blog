@@ -418,6 +418,17 @@
         "groep": "Haakarm"
     },
     {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
+        "afkorting": "NBH",
+        "omschrijving": "Natuurbrandbestrijdingshaakarmbak",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "0",
+        "groep": "Haakarm"
+    },
+    {
         "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/002/321/original/WO.png",
         "afkorting": "WO",
         "omschrijving": "Waterongevallenvoertuig",
@@ -922,5 +933,49 @@
         "duur": "3d",
         "personeel": "1",
         "groep": "rws"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_helicopter_fire.png",
+        "afkorting": "FBO-Heli",
+        "omschrijving": "Fire Bucket Operations - Helikopter",
+        "vanaf": "",
+        "kosten": "300.000 credits / 25 coins",
+        "opleiding": "Fire Bucket Operator",
+        "duur": "10d",
+        "personeel": "2-3",
+        "groep": "nbb"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "DB-Handcrew",
+        "omschrijving": "Dienstbus – Handcrew",
+        "vanaf": "",
+        "kosten": "30.000 credits / 25 coins",
+        "opleiding": "Handcrew",
+        "duur": "7d",
+        "personeel": "7-9",
+        "groep": "nbb"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_civil_car.png",
+        "afkorting": "DA-LA-NB",
+        "omschrijving": "Dienstauto – Landelijk adviseur Natuurbranden",
+        "vanaf": "",
+        "kosten": "30.000 credits / 25 coins",
+        "opleiding": "Landelijk Adviseur Natuurbranden",
+        "duur": "5d",
+        "personeel": "1",
+        "groep": "nbb"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afkorting": "VW-NB",
+        "omschrijving": "Vrachtwagen – Natuurbrandbestrijding",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "Brandweerchauffeur-zwaar",
+        "duur": "2d",
+        "personeel": "2",
+        "groep": "nbb"
     }
 ]
