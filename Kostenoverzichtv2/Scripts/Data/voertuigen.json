@@ -44,7 +44,7 @@
         "groep": "Blusvoertuigen"
     },
     {
-        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/018/original/TS_67_MB.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/008/original/TST6-7.png",
         "afkorting": "TS 6/7",
         "omschrijving": "Tankautospuit",
         "vanaf": "1 Post",
@@ -418,7 +418,7 @@
         "groep": "Haakarm"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/514/original/NBH.png",
         "afkorting": "NBH",
         "omschrijving": "Natuurbrandbestrijdingshaakarmbak",
         "vanaf": "",
@@ -737,7 +737,7 @@
         "groep": "politie_heli"
     },
     {
-        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/013/original/Ambu19.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/000/013/original/Ambu24.png",
         "afkorting": "Ambulance",
         "omschrijving": "Ambulance",
         "vanaf": "",
@@ -935,7 +935,7 @@
         "groep": "rws"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_helicopter_fire.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/515/original/FBO_Chinook.png",
         "afkorting": "FBO-Heli",
         "omschrijving": "Fire Bucket Operations - Helikopter",
         "vanaf": "",
@@ -946,7 +946,7 @@
         "groep": "nbb"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/517/original/DB-hand.png",
         "afkorting": "DB-Handcrew",
         "omschrijving": "Dienstbus – Handcrew",
         "vanaf": "",
@@ -957,7 +957,7 @@
         "groep": "nbb"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_civil_car.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/516/original/LA-NB.png",
         "afkorting": "DA-LA-NB",
         "omschrijving": "Dienstauto – Landelijk adviseur Natuurbranden",
         "vanaf": "",
@@ -968,7 +968,7 @@
         "groep": "nbb"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/518/original/VW-NB.png",
         "afkorting": "VW-NB",
         "omschrijving": "Vrachtwagen – Natuurbrandbestrijding",
         "vanaf": "",
@@ -979,7 +979,7 @@
         "groep": "nbb"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/519/original/TS_STH.png",
         "afkorting": "TS-STH",
         "omschrijving": "Tankautospuit – Specialisme Technische Hulpverlening",
         "vanaf": "",
@@ -990,7 +990,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/526/original/STH.png",
         "afkorting": "HVH-STH",
         "omschrijving": "Hulpverleningshaakarmbak-Specialisme Technische Hulpverlening",
         "vanaf": "",
@@ -1001,7 +1001,7 @@
         "groep": "Haakarm"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/520/original/USAR.png",
         "afkorting": "DB-USAR",
         "omschrijving": "Dienstbus – Urban Search and Rescue",
         "vanaf": "",
@@ -1012,7 +1012,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/521/original/TS_USAR.png",
         "afkorting": "TS-USAR",
         "omschrijving": "Tankautospuit – Urban Search and Rescue",
         "vanaf": "",
@@ -1023,7 +1023,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/522/original/USAR_VW.png",
         "afkorting": "VW-USAR",
         "omschrijving": "Vrachtwagen – Urban Search and Rescue",
         "vanaf": "",
@@ -1034,7 +1034,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_motorcycle.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/523/original/DM-USAR.png",
         "afkorting": "DM-USAR",
         "omschrijving": "Dienstmotor – Urban Search and Rescue",
         "vanaf": "",
@@ -1045,7 +1045,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_quad.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/524/original/USAR-Q.png",
         "afkorting": "Quad-USAR",
         "omschrijving": "Quat – Urban Search and Rescue",
         "vanaf": "",
@@ -1056,7 +1056,7 @@
         "groep": "sth"
     },
     {
-        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_dogs.png",
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/047/520/original/USAR.png",
         "afkorting": "DB–Speurhonden",
         "omschrijving": "Dienstbus – Speurhonden",
         "vanaf": "",
