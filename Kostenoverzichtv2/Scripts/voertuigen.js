@@ -60,6 +60,11 @@ const VoertuigGroepen = [
         "table": "Geel"
     },
     {
+        "name": "mmt",
+        "display": "Mobiel Medisch Team",
+        "table": "Geel"
+    },
+    {
         "name": "kustwacht",
         "display": "Kustwacht",
         "table": "Oranje"
