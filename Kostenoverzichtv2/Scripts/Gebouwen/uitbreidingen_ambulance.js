@@ -1,61 +1,85 @@
-const AmbulanceUitbreidingGroepen = [
+const AmbulanceUitbreidingen = [
     {
-        "name": "ambu",
-        "display": "Ambulancepost",
-        "table": "Geel"
-    }
+        "type": "Nieuwbouw",
+        "parkings": 1,
+        "level": 0,
+        "costs": "200.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Uitbouw",
+        "parkings": 2,
+        "level": 1,
+        "costs": "10.000 credits / 10 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Uitbouw",
+        "parkings": 3,
+        "level": 2,
+        "costs": "50.000 credits / 15 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 15 parkeerplaatsen",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Elke volgende nieuwbouw<br>&emsp;&#8226; Tot oneindig",
+        "parkings": "-",
+        "level": 0,
+        "costs": "200.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
 ]
 
-var voertuigen = []
+VerwerkAmbulanceGebouwen();
 
-fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kostenoverzichtv2/Scripts/Data/gebouwen.json").then(
-    res => {
-        res.json().then(
-            data => {
-                if (data.length > 0) {
-                    voertuigen = data;
-                    Verwerkgebouwen();
-                }
-            }
-        )
-    }
-)
-
-function Verwerkgebouwen() {
+function VerwerkAmbulanceGebouwen() {
     html = "";
 
-    for (var groep in AmbulanceUitbreidingGroepen) {
-        html += "<h2>" + AmbulanceUitbreidingGroepen[groep].display + "</h2>"
-        html += "<table class='table' id='" + AmbulanceUitbreidingGroepen[groep].table + "'>"
-        html += "<thead>"
-        html += "<tr>"
-        html += "<th>Soort Uitbreiding</th>"
-        html += "<th>Parkeerplaatsen</th>"
-        html += "<th>Level</th>"
-        html += "<th>Kosten</th>"
-        html += "<th>Bouwduur</th>"
-        html += "<th>Versneld bouwen</th>"
-        html += "</tr >"
-        html += "</thead >"
-        html += "<tbody>"
-        var uitbreidingenInGroep = voertuigen.filter(v => v.groep === AmbulanceUitbreidingGroepen[groep].name)
-        // uitbreidingenInGroep.sort((a, b) => (a.afkorting > b.afkorting) ? 1 : -1)
-        var temp = "";
-        uitbreidingenInGroep.forEach((uitbreiding) => {
-            temp += "<tr>";
-            temp += "<td>" + uitbreiding.type + "</td>";
-            temp += "<td>" + uitbreiding.parkings + "</td>";
-            temp += "<td>" + uitbreiding.level + "</td>";
-            temp += "<td>" + uitbreiding.costs + "</td>";
-            temp += "<td>" + uitbreiding.buidingTime + "</td>";
-            temp += "<td>" + uitbreiding.speedup + "</td>";
-            temp += "</tr>"
-        });
-        html += temp
+    html += "<h2>Ambulance post</h2>"
+    html += "<table class='table' id='Geel'>"
+    html += "<thead>"
+    html += "<tr>"
+    html += "<th>Soort Uitbreiding</th>"
+    html += "<th>Parkeerplaatsen</th>"
+    html += "<th>Level</th>"
+    html += "<th>Kosten</th>"
+    html += "<th>Bouwduur</th>"
+    html += "<th>Versneld bouwen</th>"
+    html += "</tr >"
+    html += "</thead >"
+    html += "<tbody>"
+    var temp = "";
+    AmbulanceUitbreidingen.forEach((uitbreiding) => {
+        temp += "<tr>";
+        temp += "<td>" + uitbreiding.type + "</td>";
+        temp += "<td>" + uitbreiding.parkings + "</td>";
+        temp += "<td>" + uitbreiding.level + "</td>";
+        temp += "<td>" + uitbreiding.costs + "</td>";
+        temp += "<td>" + uitbreiding.buidingTime + "</td>";
+        temp += "<td>" + uitbreiding.speedup + "</td>";
+        temp += "</tr>"
+    });
+    html += temp
 
-        html += "</tbody >"
-        html += "</table >"
-    }
+    html += "</tbody >"
+    html += "</table >"
+
 
     document.getElementById('mksAmbulanceBuilding').innerHTML = html;
 
