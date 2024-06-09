@@ -42,7 +42,7 @@ VerwerkMmtGebouwen();
 function VerwerkMmtGebouwen() {
     html = "";
 
-    html += "<h2>Ambulance post</h2>"
+    html += "<h2>MMT standplaats</h2>"
     html += "<table class='table' id='Geel'>"
     html += "<thead>"
     html += "<tr>"
@@ -56,7 +56,7 @@ function VerwerkMmtGebouwen() {
     html += "</thead >"
     html += "<tbody>"
     var temp = "";
-    AmbulanceUitbreidingen.forEach((uitbreiding) => {
+    mmtUitbreidingen.forEach((uitbreiding) => {
         temp += "<tr>";
         temp += "<td>" + uitbreiding.type + "</td>";
         temp += "<td>" + uitbreiding.parkings + "</td>";
