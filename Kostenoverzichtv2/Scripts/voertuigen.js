@@ -122,7 +122,8 @@ function Verwerkvoertuigen() {
             temp += "<td>" + voertuig.kosten + "</td>";
             temp += "<td>" + voertuig.opleiding + "</td>";
             temp += "<td>" + voertuig.duur + "</td>";
-            temp += "<td>" + voertuig.personeel + "</td></tr>";
+            temp += "<td>" + voertuig.personeel + "</td>";
+            temp += "</tr>"
         });
         html += temp
 

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "nieuwbouw",
+        "parkings": 1,
+        "level": 0,
+        "costs": "200.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "nieuwbouw",
+        "parkings": 1,
+        "level": 0,
+        "costs": "200.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "mmt"
+    }
+]
