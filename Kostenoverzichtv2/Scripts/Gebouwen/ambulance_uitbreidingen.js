@@ -62,7 +62,7 @@ function Verwerkgebouwen() {
         html += "</table >"
     }
 
-    document.getElementById('mksvehicles').innerHTML = html;
+    document.getElementById('mksAmbulanceBuilding').innerHTML = html;
 
 }
 
