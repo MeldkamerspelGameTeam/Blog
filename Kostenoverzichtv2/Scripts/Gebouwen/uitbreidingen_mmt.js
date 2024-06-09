@@ -1,12 +1,7 @@
 const GebouwUitbreidingGroepen = [
     {
-        "name": "ambu",
-        "display": "Ambulancepost",
-        "table": "Geel"
-    },
-    {
         "name": "mmt",
-        "display": "MMT Standplaats",
+        "display": "MMT standplaats",
         "table": "Geel"
     }
 ]
@@ -62,7 +57,7 @@ function Verwerkgebouwen() {
         html += "</table >"
     }
 
-    document.getElementById('mksAmbulanceBuilding').innerHTML = html;
+    document.getElementById('mksAmbulanceMMTBuilding').innerHTML = html;
 
 }
 

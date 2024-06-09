@@ -1,6 +1,6 @@
 [
     {
-        "type": "nieuwbouw",
+        "type": "Nieuwbouw",
         "parkings": 1,
         "level": 0,
         "costs": "200.000 credits / 35 coins",
@@ -9,10 +9,55 @@
         "groep": "ambu"
     },
     {
-        "type": "nieuwbouw",
-        "parkings": 1,
+        "type": "Uitbouw",
+        "parkings": 2,
+        "level": 1,
+        "costs": "10.000 credits / 10 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Uitbouw",
+        "parkings": 3,
+        "level": 2,
+        "costs": "50.000 credits / 15 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Elke volgende uitbouw\n    &#8226; maximaal 15 parkeerplaatsen",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Elke volgende nieuwbouw\n    &#8226; Tot oneindig",
+        "parkings": "-",
         "level": 0,
         "costs": "200.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "ambu"
+    },
+    {
+        "type": "Nieuwbouw",
+        "parkings": 1,
+        "level": 0,
+        "costs": "800.000 credits / 35 coins",
+        "buidingTime": "Direct",
+        "speedup": "-",
+        "groep": "mmt"
+    },
+    {
+        "type": "Uitbouw\n    &#8226; maximaal 4 parkeerplaatsen",
+        "parkings": "-",
+        "level": "-",
+        "costs": "800.000 credits / 35 coins",
         "buidingTime": "Direct",
         "speedup": "-",
         "groep": "mmt"
