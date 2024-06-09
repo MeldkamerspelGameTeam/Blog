@@ -1,4 +1,4 @@
-const GebouwUitbreidingGroepen = [
+const AmbulanceUitbreidingGroepen = [
     {
         "name": "ambu",
         "display": "Ambulancepost",
@@ -24,9 +24,9 @@ fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kosteno
 function Verwerkgebouwen() {
     html = "";
 
-    for (var groep in GebouwUitbreidingGroepen) {
-        html += "<h2>" + GebouwUitbreidingGroepen[groep].display + "</h2>"
-        html += "<table class='table' id='" + GebouwUitbreidingGroepen[groep].table + "'>"
+    for (var groep in AmbulanceUitbreidingGroepen) {
+        html += "<h2>" + AmbulanceUitbreidingGroepen[groep].display + "</h2>"
+        html += "<table class='table' id='" + AmbulanceUitbreidingGroepen[groep].table + "'>"
         html += "<thead>"
         html += "<tr>"
         html += "<th>Soort Uitbreiding</th>"
@@ -38,8 +38,8 @@ function Verwerkgebouwen() {
         html += "</tr >"
         html += "</thead >"
         html += "<tbody>"
-        var uitbreidingenInGroep = voertuigen.filter(v => v.groep === GebouwUitbreidingGroepen[groep].name)
-        uitbreidingenInGroep.sort((a, b) => (a.afkorting > b.afkorting) ? 1 : -1)
+        var uitbreidingenInGroep = voertuigen.filter(v => v.groep === AmbulanceUitbreidingGroepen[groep].name)
+        // uitbreidingenInGroep.sort((a, b) => (a.afkorting > b.afkorting) ? 1 : -1)
         var temp = "";
         uitbreidingenInGroep.forEach((uitbreiding) => {
             temp += "<tr>";
