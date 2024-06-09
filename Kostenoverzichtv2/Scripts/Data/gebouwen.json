@@ -27,7 +27,7 @@
         "groep": "ambu"
     },
     {
-        "type": "Elke volgende uitbouw\n    &#8226; maximaal 15 parkeerplaatsen",
+        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 15 parkeerplaatsen",
         "parkings": "-",
         "level": "-",
         "costs": "100.000 credits / 20 coins",
@@ -36,7 +36,7 @@
         "groep": "ambu"
     },
     {
-        "type": "Elke volgende nieuwbouw\n    &#8226; Tot oneindig",
+        "type": "Elke volgende nieuwbouw<br>&emsp;&#8226; Tot oneindig",
         "parkings": "-",
         "level": 0,
         "costs": "200.000 credits / 35 coins",
@@ -54,7 +54,7 @@
         "groep": "mmt"
     },
     {
-        "type": "Uitbouw\n    &#8226; maximaal 4 parkeerplaatsen",
+        "type": "Uitbouw<br>&emsp;&#8226; maximaal 4 parkeerplaatsen",
         "parkings": "-",
         "level": "-",
         "costs": "800.000 credits / 35 coins",
