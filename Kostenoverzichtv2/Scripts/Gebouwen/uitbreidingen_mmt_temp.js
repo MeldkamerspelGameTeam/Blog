@@ -72,7 +72,7 @@ function VerwerkMmtGebouwen() {
     html += "</table >"
 
 
-    document.getElementById('mksAmbulanceBuilding').innerHTML = html;
+    document.getElementById('mksAmbulanceMMTBuilding').innerHTML = html;
 
 }
 
