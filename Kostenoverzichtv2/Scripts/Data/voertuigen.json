@@ -1153,5 +1153,27 @@
         "duur": "4d",
         "personeel": "1-2",
         "groep": "rws"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/yellow_car_carrier.png",
+        "afkorting": "Berger-K (Politie)",
+        "omschrijving": "Berger Klein (Politie)",
+        "vanaf": "",
+        "kosten": "25.000 credits / 15 coins",
+        "opleiding": "Berger Training",
+        "duur": "4d",
+        "personeel": "1-2",
+        "groep": "politie_opkomst"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/yellow_car_carrier.png",
+        "afkorting": "Berger-G (Politie)",
+        "omschrijving": "Berger Groot (Politie)",
+        "vanaf": "",
+        "kosten": "50.000 credits / 25 coins",
+        "opleiding": "Berger Training",
+        "duur": "4d",
+        "personeel": "1-2",
+        "groep": "politie_opkomst"
     }
 ]
