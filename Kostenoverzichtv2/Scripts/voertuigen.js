@@ -73,6 +73,11 @@ const VoertuigGroepen = [
         "name": "rws",
         "display": "Rijkswaterstaat",
         "table": "Geel"
+    },
+    {
+        "name": "berger",
+        "display": "Berger Standplaats",
+        "table": "Geel"
     }
 ]
 
