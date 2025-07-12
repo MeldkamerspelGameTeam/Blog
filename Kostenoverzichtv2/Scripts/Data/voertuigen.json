@@ -1098,5 +1098,16 @@
         "duur": "",
         "personeel": "2",
         "groep": "ambu"
+    },
+    {
+        "afbeelding": "https://s3.amazonaws.com/lstnl/vehicle_graphic_images/images/000/051/831/original/MICU_VW.png?1723637624",
+        "afkorting": "MICU",
+        "omschrijving": "Mobiele intensive care unit",
+        "vanaf": "",
+        "kosten": "30.000 credits / 20 coins",
+        "opleiding": "Intensive Care Team",
+        "duur": "3d",
+        "personeel": "3",
+        "groep": "ambu"
     }
 ]
