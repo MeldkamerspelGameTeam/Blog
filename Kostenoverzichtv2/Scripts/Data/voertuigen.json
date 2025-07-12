@@ -1109,5 +1109,27 @@
         "duur": "3d",
         "personeel": "3",
         "groep": "ambu"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/yellow_car_carrier.png",
+        "afkorting": "Berger-K",
+        "omschrijving": "Berger Klein",
+        "vanaf": "",
+        "kosten": "25.000 credits / 15 coins",
+        "opleiding": "Berger Training",
+        "duur": "4d",
+        "personeel": "1-2",
+        "groep": "rws"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/yellow_car_carrier.png",
+        "afkorting": "Berger-G",
+        "omschrijving": "Berger Groot",
+        "vanaf": "",
+        "kosten": "50.000 credits / 25 coins",
+        "opleiding": "Berger Training",
+        "duur": "4d",
+        "personeel": "1-2",
+        "groep": "rws"
     }
 ]
