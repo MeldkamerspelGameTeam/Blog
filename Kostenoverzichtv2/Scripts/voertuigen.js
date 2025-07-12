@@ -78,6 +78,11 @@ const VoertuigGroepen = [
         "name": "berger",
         "display": "Berger Standplaats",
         "table": "Geel"
+    },
+    {
+        "name": "military",
+        "display": "Militaire Kazerne",
+        "table": "Blauw"
     }
 ]
 
