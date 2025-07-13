@@ -10,7 +10,7 @@ const AmbulanceUitbreidingen = [
     },
     {
         "type": "Uitbouw",
-        "parkings": 2,
+        "parkings": 1,
         "level": 1,
         "costs": "10.000 credits / 10 coins",
         "buidingTime": "Direct",
@@ -19,7 +19,7 @@ const AmbulanceUitbreidingen = [
     },
     {
         "type": "Uitbouw",
-        "parkings": 3,
+        "parkings": 1,
         "level": 2,
         "costs": "50.000 credits / 15 coins",
         "buidingTime": "Direct",
@@ -27,7 +27,7 @@ const AmbulanceUitbreidingen = [
         "groep": "ambu"
     },
     {
-        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 15 parkeerplaatsen",
+        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 20 parkeerplaatsen",
         "parkings": "-",
         "level": "-",
         "costs": "100.000 credits / 20 coins",
