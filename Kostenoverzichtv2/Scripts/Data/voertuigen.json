@@ -1208,5 +1208,82 @@
         "duur": "4d",
         "personeel": "1",
         "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DAT-EOD",
+        "omschrijving": "Dienstauto terrreinvaardig – Explosieve Opruimingsdienst",
+        "vanaf": "",
+        "kosten": "40.000 credits / 20 coins",
+        "opleiding": "Bomontmanteling",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-EOD",
+        "omschrijving": "Dienstbus – Explosieve Opruimingsdienst",
+        "vanaf": "",
+        "kosten": "45.000 credits / 25 coins",
+        "opleiding": "Bomontmanteling",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "VW-EOD",
+        "omschrijving": "Vrachtwagen – Explosieve Opruimingsdienst",
+        "vanaf": "",
+        "kosten": "40.000 credits / 25 coins",
+        "opleiding": "Bomontmanteling",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-Explosievenhonden",
+        "omschrijving": "Dienstbus – Explosieve speurhonden",
+        "vanaf": "",
+        "kosten": "45.000 credits / 25 coins",
+        "opleiding": "Hondengeleider EOD",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-Explosieveduikers",
+        "omschrijving": "Dienstbus – Explosieveduikers",
+        "vanaf": "",
+        "kosten": "30.000 credits / 25 coins",
+        "opleiding": "Duiker Defensie",
+        "duur": "7d",
+        "personeel": "2",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "BA-DDG",
+        "omschrijving": "Bootaanhanger – Defensie Duikgroep",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "military"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Explosievenrobot",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "70.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "military_equipment"
     }
 ]
