@@ -40,6 +40,11 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
+        "name": "log_equipment",
+        "display": "Logistiek & Ondersteuning, Rolcontainers",
+        "table": "Rood"
+    },
+    {
         "name": "sth",
         "display": "STH & USAR",
         "table": "Rood"

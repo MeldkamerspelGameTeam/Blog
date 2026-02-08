@@ -1395,5 +1395,71 @@
         "duur": "",
         "personeel": "",
         "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Adembescherming",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Slangen",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "20.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Slangen-Klein",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Pomp",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Verzorging",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "RC-Arbeidshygiëne",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "15.000 credits / 25 coins",
+        "opleiding": "",
+        "duur": "",
+        "personeel": "",
+        "groep": "log_equipment"
     }
 ]
