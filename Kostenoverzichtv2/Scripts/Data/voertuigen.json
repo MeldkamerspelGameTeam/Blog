@@ -1285,5 +1285,16 @@
         "duur": "",
         "personeel": "",
         "groep": "military_equipment"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-TEV",
+        "omschrijving": "Dienstbus – Team Explosieven Veiligheid",
+        "vanaf": "",
+        "kosten": "25.000 credits / 25 coins",
+        "opleiding": "Bomverkenner",
+        "duur": "4d",
+        "personeel": "1",
+        "groep": "politie_opkomst"
     }
 ]
