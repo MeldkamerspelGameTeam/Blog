@@ -1296,5 +1296,49 @@
         "duur": "4d",
         "personeel": "1",
         "groep": "politie_opkomst"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-VZ",
+        "omschrijving": "Dienstbus - Verzorgingseenheid",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "Verzorger",
+        "duur": "7d",
+        "personeel": "2-4",
+        "groep": "Overige voertuigen"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "VZH",
+        "omschrijving": "Verzorgingshaakarmbak",
+        "vanaf": "",
+        "kosten": "12.000 credits / 6 coins",
+        "opleiding": "Verzorger",
+        "duur": "",
+        "personeel": "",
+        "groep": "Haakarm"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-AH",
+        "omschrijving": "Dienstbus - Arbeidshygiëne",
+        "vanaf": "",
+        "kosten": "12.000 credits / 25 coins",
+        "opleiding": "Hygiënemedewerker",
+        "duur": "7d",
+        "personeel": "2-4",
+        "groep": "Overige voertuigen"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "VZH‐AH",
+        "omschrijving": "Verzorgingshaakarmbak Arbeidshygiëne",
+        "vanaf": "",
+        "kosten": "12.000 credits / 6 coins",
+        "opleiding": "Verzorger",
+        "duur": "",
+        "personeel": "",
+        "groep": "Haakarm"
     }
 ]
