@@ -1346,17 +1346,6 @@
         "afkorting": "DB-PC-LOG",
         "omschrijving": "Dienstbus – Pelotonscommandant Logistiek",
         "vanaf": "",
-        "kosten": "12.000 credits / 6 coins",
-        "opleiding": "Pelotonscommandant Logistiek",
-        "duur": "7d",
-        "personeel": "1",
-        "groep": "log"
-    },
-    {
-        "afbeelding": "",
-        "afkorting": "DB-PC-LOG",
-        "omschrijving": "Dienstbus – Pelotonscommandant Logistiek",
-        "vanaf": "",
         "kosten": "40.000 credits / 25 coins",
         "opleiding": "Pelotonscommandant Logistiek",
         "duur": "7d",
