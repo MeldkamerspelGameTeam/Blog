@@ -1376,6 +1376,28 @@
     },
     {
         "afbeelding": "",
+        "afkorting": "DB-TDV",
+        "omschrijving": "Dienstbus - Team Digitale Verkenning",
+        "vanaf": "",
+        "kosten": "60.000 credits / 28 coins",
+        "opleiding": "TDV Drone Flightcrew",
+        "duur": "7d",
+        "personeel": "3",
+        "groep": "Overige voertuigen"
+    },
+    {
+        "afbeelding": "",
+        "afkorting": "DB-DRONE",
+        "omschrijving": "Dienstbus – Drone Team Politie",
+        "vanaf": "",
+        "kosten": "60.000 credits / 28 coins",
+        "opleiding": "Politie - Drone Flightcrew",
+        "duur": "7d",
+        "personeel": "3",
+        "groep": "politie_hoofd"
+    },
+    {
+        "afbeelding": "",
         "afkorting": "BMH-LOG",
         "omschrijving": "Bijzonder Materieel Haakarmbak – Logistiek",
         "vanaf": "",
