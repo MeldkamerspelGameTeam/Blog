@@ -50,6 +50,16 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
+        "name": "ibgs",
+        "display": "Incidentbestrijding Gevaarlijke Stoffen ",
+        "table": "Rood"
+    },
+    {
+        "name": "icb",
+        "display": "Incidentenbestrijding",
+        "table": "Rood"
+    },
+    {
         "name": "politie_opkomst",
         "display": "Politievoertuigen, Opkomstbureau",
         "table": "Blauw"
