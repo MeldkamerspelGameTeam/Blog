@@ -66,6 +66,25 @@
 .cellencomplex-kosten th:nth-child(2) { width: 35%; }
 .cellencomplex-kosten th:nth-child(3) { width: 25%; }
 
+.gebouw-kosten-vijf th:nth-child(1) { width: 38%; }
+.gebouw-kosten-vijf th:nth-child(2) { width: 10%; }
+.gebouw-kosten-vijf th:nth-child(3) { width: 27%; }
+.gebouw-kosten-vijf th:nth-child(4) { width: 12%; }
+.gebouw-kosten-vijf th:nth-child(5) { width: 13%; }
+
+.gebouw-kosten-vier th:nth-child(1) { width: 38%; }
+.gebouw-kosten-vier th:nth-child(2) { width: 12%; }
+.gebouw-kosten-vier th:nth-child(3) { width: 30%; }
+.gebouw-kosten-vier th:nth-child(4) { width: 20%; }
+
+.premium-kosten th:nth-child(1) { width: 20%; }
+.premium-kosten th:nth-child(2) { width: 55%; }
+.premium-kosten th:nth-child(3) { width: 25%; }
+
+.overige-kosten th:nth-child(1) { width: 20%; }
+.overige-kosten th:nth-child(2) { width: 60%; }
+.overige-kosten th:nth-child(3) { width: 20%; }
+
 #Rood,
 .table-rood {
   font-family: Arial, Helvetica, sans-serif;
@@ -98,6 +117,46 @@
   padding-bottom: 12px;
   background-color: #ff0000;
   color: white;
+}
+
+.table-paars,
+.table-groen {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+.table-paars td,
+.table-paars th,
+.table-groen td,
+.table-groen th {
+  border: 1px solid #ddd;
+}
+
+.table-paars tr:nth-child(even),
+.table-groen tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-paars tr:hover,
+.table-groen tr:hover {
+  background-color: #ddd;
+}
+
+.table-paars th,
+.table-groen th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+}
+
+.table-paars th {
+  background-color: #9900ff;
+}
+
+.table-groen th {
+  background-color: #2f751f;
 }
 
 #Blauw,

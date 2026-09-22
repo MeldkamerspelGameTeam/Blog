@@ -56,7 +56,7 @@ const VoertuigGroepen = [
     },
     {
         "name": "icb",
-        "display": "Incidentenbestrijding",
+        "display": "Incidentenbestrijding Spoor",
         "table": "Rood"
     },
     {
@@ -71,7 +71,7 @@ const VoertuigGroepen = [
     },
     {
         "name": "politie_heli",
-        "display": "Politievoertuigen, Helikoperstandplaats",
+        "display": "Politievoertuigen, Helikopterstandplaats",
         "table": "Blauw"
     },
     {

@@ -1,0 +1,20 @@
+{
+  "rows": [
+    { "type": "Ziekenhuis in team<br>&emsp;&#8226; standaard met 10 bedden", "level": 0, "costs": "200.000 credits", "buildingTime": "direct" },
+    { "type": "Uitbouw per bed<br>&emsp;&#8226; Maximaal 30 bedden", "level": "1 / 20", "costs": "19.000 credits", "buildingTime": "direct" },
+    { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Interne geneeskunde", "level": "-", "costs": "10.000 credits", "buildingTime": "7 dagen" },
+    { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Algemene Heelkunde", "level": "-", "costs": "10.000 credits", "buildingTime": "7 dagen" },
+    { "type": "Overige Specialisme", "level": "-", "costs": "70.000 credits", "buildingTime": "7 dagen" },
+    { "type": "Alle volgende ziekenhuizen<br>&emsp;&#8226; tot oneindig", "level": "-", "costs": "200.000 credits", "buildingTime": "direct" },
+    { "type": "Verplaatsen", "level": "-", "costs": "10 coins", "buildingTime": "direct" },
+    { "type": "Verwijderen / Slopen", "level": "-", "costs": "Geen vergoeding", "buildingTime": "-" }
+  ],
+  "notes": [
+    "Een ziekenhuis kan alleen worden aangekocht in een team als de teamkas is geactiveerd.",
+    "De bouw kan alleen worden geregeld door de Team-Admin of door een Penningmeester.",
+    "De aankoop kan alleen worden voldaan als er genoeg credits in de teamkas aanwezig zijn.",
+    "Het kortingspercentage is afhankelijk van wat je verdient op de melding.",
+    "Stel dat de korting op 50% staat in je ledenoverzicht.",
+    "Dan verdient het team 50% van de 250 credits = 125 credits."
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" },
+  { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" },
+  { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" },
+  { "type": "Uitbouw Opleidingen<br>&emsp;&#8226; Extra klas tot max 4", "students": 10, "costs": "400.000 credits / 40 coins", "buildingTime": "7 dagen", "speedup": "10 coins" }
+]

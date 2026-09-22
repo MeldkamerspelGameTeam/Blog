@@ -1,0 +1,6 @@
+[
+  { "duration": "1 maand", "benefit": "", "costs": "34 coins" },
+  { "duration": "3 maanden", "benefit": "14 % Extra", "costs": "88 coins" },
+  { "duration": "6 maanden", "benefit": "29 % Extra", "costs": "147 coins" },
+  { "duration": "12 maanden", "benefit": "57 % Extra", "costs": "180 coins" }
+]
