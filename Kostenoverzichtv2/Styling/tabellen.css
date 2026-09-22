@@ -42,7 +42,8 @@
   overflow-wrap: break-word;
 }
 
-#Rood {
+#Rood,
+.table-rood {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -50,20 +51,25 @@
 }
 
 #Rood td,
-#vehicles th {
+#Rood th,
+.table-rood td,
+.table-rood th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#Rood tr:nth-child(even) {
+#Rood tr:nth-child(even),
+.table-rood tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-#Rood tr:hover {
+#Rood tr:hover,
+.table-rood tr:hover {
   background-color: #ddd;
 }
 
-#Rood th {
+#Rood th,
+.table-rood th {
   padding-top: 12px;
   padding-bottom: 12px;
   background-color: #ff0000;
