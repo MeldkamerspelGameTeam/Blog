@@ -1,0 +1,13 @@
+[
+  { "leftCount": "1e tot 24ste", "leftCosts": "100.000 credits", "rightCount": "25ste", "rightCosts": "300.000 credits" },
+  { "leftCount": "26ste", "leftCosts": "416.993 credits", "rightCount": "27ste", "rightCosts": "500.000 credits" },
+  { "leftCount": "28ste", "leftCosts": "564.386 credits", "rightCount": "29ste", "rightCosts": "616.993 credits" },
+  { "leftCount": "30ste", "leftCosts": "661.471 credits", "rightCount": "31ste", "rightCosts": "700.000 credits" },
+  { "leftCount": "32ste", "leftCosts": "733.985 credits", "rightCount": "33ste", "rightCosts": "764.386 credits" },
+  { "leftCount": "34ste", "leftCosts": "791.886 credits", "rightCount": "35ste", "rightCosts": "816.993 credits" },
+  { "leftCount": "36ste", "leftCosts": "840.088 credits", "rightCount": "37ste", "rightCosts": "861.471 credits" },
+  { "leftCount": "38ste", "leftCosts": "881.378 credits", "rightCount": "39ste", "rightCosts": "900.000 credits" },
+  { "leftCount": "40ste", "leftCosts": "917.493 credits", "rightCount": "45ste", "rightCosts": "991.886 credits" },
+  { "leftCount": "50ste", "leftCosts": "1.050.978 credits", "rightCount": "60ste", "rightCosts": "1.141.891 credits" },
+  { "leftCount": "70ste", "leftCosts": "1.210.918 credits", "rightCount": "enzovoort", "rightCosts": "enzovoort" }
+]

@@ -1,0 +1,16 @@
+{
+  "rows": [
+    { "type": "Cellencomplex in team<br>&emsp;&#8226; plus 1 gratis cel", "costs": "100.000 credits", "buildingTime": "direct" },
+    { "type": "Cellen uitbouw per cel<br>&emsp;&#8226; maximaal 10 cellen", "costs": "25.000 credits", "buildingTime": "7 dagen" },
+    { "type": "Verplaatsen", "costs": "10 coins", "buildingTime": "direct" },
+    { "type": "Verwijderen / Slopen", "costs": "Geen vergoeding", "buildingTime": "" }
+  ],
+  "notes": [
+    "Een cellencomplex kan alleen worden aangekocht in een team als de teamkas is geactiveerd.",
+    "De bouw kan alleen worden geregeld door de Team-Admin of door een Penningmeester.",
+    "De aankoop kan alleen worden voldaan als er genoeg credits in de teamkas aanwezig zijn.",
+    "Het kortingspercentage is afhankelijk van wat je verdient op de melding.",
+    "Stel dat de korting op 50% staat in je ledenoverzicht.",
+    "Dan verdient het team 50% van de 250 credits = 125 credits."
+  ]
+}
