@@ -1,8 +1,8 @@
 [
-  { "type": "Nieuwbouw<br>&emsp;&#8226; standaard met 10 bedden", "level": 0, "costs": "200.000 credits / 35 coins", "buildingTime": "direct", "speedup": "-" },
-  { "type": "Uitbouw per bed<br>&emsp;&#8226; Maximaal 30 bedden", "level": "1 / 20", "costs": "19.000 credits / 11 coins", "buildingTime": "direct", "speedup": "-" },
-  { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Interne geneeskunde", "level": "-", "costs": "10.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
-  { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Algemene Heelkunde", "level": "-", "costs": "10.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
-  { "type": "Overige Specialisme", "level": "-", "costs": "70.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
-  { "type": "Alle volgende ziekenhuizen<br>&emsp;&#8226; tot oneindig", "level": "-", "costs": "200.000 credits / 35 coins", "buildingTime": "direct", "speedup": "-" }
+    { "type": "Nieuwbouw<br>&emsp;&#8226; standaard met 10 bedden", "level": 0, "costs": "200.000 credits / 35 coins", "buildingTime": "direct", "speedup": "-" },
+    { "type": "Uitbouw per bed<br>&emsp;&#8226; Maximaal 30 bedden", "level": "1 / 20", "costs": "19.000 credits / 11 coins", "buildingTime": "direct", "speedup": "-" },
+    { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Interne geneeskunde", "level": "-", "costs": "10.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
+    { "type": "Uitbouw Specialisme<br>&emsp;&#8226; Algemene Heelkunde", "level": "-", "costs": "10.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
+    { "type": "Overige Specialisme", "level": "-", "costs": "70.000 credits / 10 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
+    { "type": "Alle volgende ziekenhuizen<br>&emsp;&#8226; tot oneindig", "level": "-", "costs": "200.000 credits / 35 coins", "buildingTime": "direct", "speedup": "-" }
 ]

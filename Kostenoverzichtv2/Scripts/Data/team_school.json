@@ -1,18 +1,18 @@
 {
-  "rows": [
-    { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
-    { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
-    { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
-    { "type": "Uitbouw Opleidingen<br>&emsp;&#8226; Extra klas tot max 4", "students": 10, "costs": "400.000 credits", "buildingTime": "7 dagen" },
-    { "type": "Verplaatsen", "students": "-", "costs": "10 coins", "buildingTime": "direct" },
-    { "type": "Verwijderen / Slopen", "students": "-", "costs": "Geen vergoeding", "buildingTime": "-" }
-  ],
-  "notes": [
-    "De school kan alleen worden aangekocht in een team als de teamkas is geactiveerd.",
-    "De bouw kan alleen worden geregeld door de Team-Admin of door een Penningmeester.",
-    "De aankoop kan alleen worden voldaan als er genoeg credits in de teamkas aanwezig zijn.",
-    "Het kortingspercentage is afhankelijk van wat je verdient op de melding.",
-    "Stel dat de korting op 50% staat in je ledenoverzicht.",
-    "Dan verdient het team 50% van de 500 credits per dag = 250 credits per dag, welke dan in de teamkas gaan."
-  ]
+    "rows": [
+        { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
+        { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
+        { "type": "Brandweeracademie<br>&emsp;&#8226; standaard met 1 klas", "students": 10, "costs": "500.000 credits", "buildingTime": "direct" },
+        { "type": "Uitbouw Opleidingen<br>&emsp;&#8226; Extra klas tot max 4", "students": 10, "costs": "400.000 credits", "buildingTime": "7 dagen" },
+        { "type": "Verplaatsen", "students": "-", "costs": "10 coins", "buildingTime": "direct" },
+        { "type": "Verwijderen / Slopen", "students": "-", "costs": "Geen vergoeding", "buildingTime": "-" }
+    ],
+    "notes": [
+        "De school kan alleen worden aangekocht in een team als de teamkas is geactiveerd.",
+        "De bouw kan alleen worden geregeld door de Team-Admin of door een Penningmeester.",
+        "De aankoop kan alleen worden voldaan als er genoeg credits in de teamkas aanwezig zijn.",
+        "Het kortingspercentage is afhankelijk van wat je verdient op de melding.",
+        "Stel dat de korting op 50% staat in je ledenoverzicht.",
+        "Dan verdient het team 50% van de 500 credits per dag = 250 credits per dag, welke dan in de teamkas gaan."
+    ]
 }

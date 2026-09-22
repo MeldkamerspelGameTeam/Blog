@@ -1,4 +1,4 @@
 [
-  { "type": "Nieuwbouw", "parkings": 1, "level": 0, "costs": "1.000.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" },
-  { "type": "Uitbouw", "parkings": 1, "level": 0, "costs": "1.000.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" }
+    { "type": "Nieuwbouw", "parkings": 1, "level": 0, "costs": "1.000.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" },
+    { "type": "Uitbouw", "parkings": 1, "level": 0, "costs": "1.000.000 credits / 50 coins", "buildingTime": "direct", "speedup": "-" }
 ]
