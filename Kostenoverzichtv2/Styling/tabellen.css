@@ -1,3 +1,47 @@
+.voertuigen .table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.voertuigen .table th:nth-child(1) {
+  width: 13%;
+}
+
+.voertuigen .table th:nth-child(2) {
+  width: 12%;
+}
+
+.voertuigen .table th:nth-child(3) {
+  width: 23%;
+}
+
+.voertuigen .table th:nth-child(4) {
+  width: 9%;
+}
+
+.voertuigen .table th:nth-child(5) {
+  width: 12%;
+}
+
+.voertuigen .table th:nth-child(6) {
+  width: 18%;
+}
+
+.voertuigen .table th:nth-child(7) {
+  width: 7%;
+}
+
+.voertuigen .table th:nth-child(8) {
+  width: 6%;
+}
+
+#mksvehicles .table th,
+#mksvehicles .table td {
+  padding: 4px 2px;
+  font-size: 14px;
+  overflow-wrap: break-word;
+}
+
 #Rood {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
