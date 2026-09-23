@@ -1,6 +1,6 @@
 [
-    { "duration": "1 maand", "benefit": "", "costs": "34 coins" },
-    { "duration": "3 maanden", "benefit": "14 % Extra", "costs": "88 coins" },
-    { "duration": "6 maanden", "benefit": "29 % Extra", "costs": "147 coins" },
-    { "duration": "12 maanden", "benefit": "57 % Extra", "costs": "180 coins" }
+    { "duration": "1 maand", "benefit": "", "costs": "45 coins" },
+    { "duration": "3 maanden", "benefit": "7 dagen gratis!", "costs": "124 coins" },
+    { "duration": "6 maanden", "benefit": "1 maand gratis!", "costs": "225 coins" },
+    { "duration": "12 maanden", "benefit": "3 maanden gratis!", "costs": "405 coins" }
 ]

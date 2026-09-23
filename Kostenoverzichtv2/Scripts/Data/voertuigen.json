@@ -1298,7 +1298,7 @@
         "groep": "politie_opkomst"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-VZ",
         "omschrijving": "Dienstbus - Verzorgingseenheid",
         "vanaf": "",
@@ -1309,7 +1309,7 @@
         "groep": "Overige voertuigen"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "VZH",
         "omschrijving": "Verzorgingshaakarmbak",
         "vanaf": "",
@@ -1320,7 +1320,7 @@
         "groep": "Haakarm"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-AH",
         "omschrijving": "Dienstbus - Arbeidshygiëne",
         "vanaf": "",
@@ -1331,7 +1331,7 @@
         "groep": "Overige voertuigen"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "VZH‐AH",
         "omschrijving": "Verzorgingshaakarmbak Arbeidshygiëne",
         "vanaf": "",
@@ -1342,7 +1342,7 @@
         "groep": "Haakarm"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-PC-LOG",
         "omschrijving": "Dienstbus – Pelotonscommandant Logistiek",
         "vanaf": "",
@@ -1353,7 +1353,7 @@
         "groep": "log"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "DB-LOG",
         "omschrijving": "Dienstbus – Logistiek",
         "vanaf": "",
@@ -1364,7 +1364,7 @@
         "groep": "log"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "VW-LOG",
         "omschrijving": "Vrachtwagen – Logistiek",
         "vanaf": "",
@@ -1375,7 +1375,7 @@
         "groep": "log"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-TDV",
         "omschrijving": "Dienstbus - Team Digitale Verkenning",
         "vanaf": "",
@@ -1397,7 +1397,7 @@
         "groep": "politie_hoofd"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "BMH-LOG",
         "omschrijving": "Bijzonder Materieel Haakarmbak – Logistiek",
         "vanaf": "",
@@ -1474,7 +1474,7 @@
         "groep": "log_equipment"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "SB-BA",
         "omschrijving": "Schuimblusvoertuig met Blusarm",
         "vanaf": "",
@@ -1485,7 +1485,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "SB-IB",
         "omschrijving": "Schuimblusvoertuig Industriële Brandbestrijding",
         "vanaf": "",
@@ -1496,7 +1496,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "AS",
         "omschrijving": "Autospuit",
         "vanaf": "",
@@ -1507,7 +1507,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "TS-IB",
         "omschrijving": "Tankautospuit Industriële Brandbestrijding",
         "vanaf": "",
@@ -1518,7 +1518,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "GSH",
         "omschrijving": "Gevaarlijke Stoffen Haakarmbak",
         "vanaf": "",
@@ -1529,7 +1529,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-GS",
         "omschrijving": "Dienstbus Gevaarlijke Stoffen",
         "vanaf": "",
@@ -1540,7 +1540,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "GPH",
         "omschrijving": "Gaspakken Haakarmbak",
         "vanaf": "",
@@ -1551,7 +1551,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-GP",
         "omschrijving": "Dienstbus Gaspakken",
         "vanaf": "",
@@ -1562,7 +1562,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "BOH-DC",
         "omschrijving": "Basis Ontsmettings Haakarmbak",
         "vanaf": "",
@@ -1573,7 +1573,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "TS-BO",
         "omschrijving": "Tankautospuit Basis Ontsmetting",
         "vanaf": "",
@@ -1584,7 +1584,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-BO",
         "omschrijving": "Dienstbus Basis Ontsmetting",
         "vanaf": "",
@@ -1595,7 +1595,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "GOH-DC",
         "omschrijving": "Grootschalige Ontsmettings Haakarmbak",
         "vanaf": "",
@@ -1617,7 +1617,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-GO",
         "omschrijving": "Dienstbus Grootschalige Ontsmetting",
         "vanaf": "",
@@ -1628,7 +1628,7 @@
         "groep": "ibgs"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "DB-ICB",
         "omschrijving": "Dienstbus-Incidentenbestrijding",
         "vanaf": "",
@@ -1639,7 +1639,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "OvD-ICB",
         "omschrijving": "",
         "vanaf": "",
@@ -1650,7 +1650,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "VW-VZ-ICB",
         "omschrijving": "Vrachtwagen Verzorging Incidentenbestrijding",
         "vanaf": "",
@@ -1661,7 +1661,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_empty.png",
         "afkorting": "HA-ICB",
         "omschrijving": "Haakarmvoertuig-Incidentenbestrijding",
         "vanaf": "",
@@ -1672,7 +1672,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "GM-ICB",
         "omschrijving": "Gereedschap/Materiaalvoertuig-Incidentenbestrijding",
         "vanaf": "",
@@ -1683,7 +1683,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "HSH-ICB",
         "omschrijving": "Herspoorhaakarmbak-ICB",
         "vanaf": "",
@@ -1694,7 +1694,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_container_full.png",
         "afkorting": "VW-HS",
         "omschrijving": "Vrachtwagen Hersporing",
         "vanaf": "",
@@ -1705,7 +1705,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "BM-VTHS",
         "omschrijving": "Bijzonder materieel Veiligheidstester Hoogspanning",
         "vanaf": "",
@@ -1716,7 +1716,7 @@
         "groep": "icb"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_truck.png",
         "afkorting": "TS-Spoor",
         "omschrijving": "Tankautospuit=Spoor",
         "vanaf": "",
@@ -1758,5 +1758,49 @@
         "duur": "",
         "personeel": "",
         "groep": "log_equipment"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
+        "afkorting": "DB-RI",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "25.000 credits / 12 coins",
+        "opleiding": "Specialist Rietdakbrandbestrijding",
+        "duur": "5d",
+        "personeel": "2-6",
+        "groep": "ri"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_trailer.png",
+        "afkorting": "RIA",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "6.000 credits / 6 coins",
+        "opleiding": "Trekkend voertuig: Specialist Rietdakbrandbestrijding",
+        "duur": "5d",
+        "personeel": "",
+        "groep": "ri"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
+        "afkorting": "DB-VI",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "25.000 credits / 12 coins",
+        "opleiding": "Veeredder",
+        "duur": "5d",
+        "personeel": "4-6",
+        "groep": "vi"
+    },
+    {
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_trailer.png",
+        "afkorting": "VIA",
+        "omschrijving": "",
+        "vanaf": "",
+        "kosten": "6.000 credits / 6 coins",
+        "opleiding": "Trekkend voertuig: Veeredder",
+        "duur": "5d",
+        "personeel": "",
+        "groep": "vi"
     }
 ]
