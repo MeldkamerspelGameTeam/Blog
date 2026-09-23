@@ -1760,7 +1760,7 @@
         "groep": "log_equipment"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-RI",
         "omschrijving": "",
         "vanaf": "",
@@ -1771,7 +1771,7 @@
         "groep": "ri"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_trailer.png",
         "afkorting": "RIA",
         "omschrijving": "",
         "vanaf": "",
@@ -1782,7 +1782,7 @@
         "groep": "ri"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_sprinter.png",
         "afkorting": "DB-VI",
         "omschrijving": "",
         "vanaf": "",
@@ -1793,7 +1793,7 @@
         "groep": "vi"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/red_trailer.png",
         "afkorting": "VIA",
         "omschrijving": "",
         "vanaf": "",
