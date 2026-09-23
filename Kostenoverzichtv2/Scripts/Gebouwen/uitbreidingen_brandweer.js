@@ -1,82 +1,21 @@
-const BrandweerUitbreidingen = [
-    {
-        "type": "Nieuwbouw",
-        "parkings": 1,
-        "level": 0,
-        "costs": "100.000 credits / 30 coins",
-        "buidingTime": "Direct",
-        "speedup": "-"
-    },
-    {
-        "type": "Uitbouw",
-        "parkings": 1,
-        "level": 1,
-        "costs": "10.000 credits / 10 coins",
-        "buidingTime": "Direct",
-        "speedup": "-"
-    },
-    {
-        "type": "Uitbouw",
-        "parkings": 1,
-        "level": 2,
-        "costs": "50.000 credits / 15 coins",
-        "buidingTime": "Direct",
-        "speedup": "-"
-    },
-    {
-        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 25 parkeerplaatsen",
-        "parkings": "-",
-        "level": "-",
-        "costs": "100.000 credits / 20 coins",
-        "buidingTime": "Direct",
-        "speedup": "-"
-    },
-    {
-        "type": "25 Brandweerposten (zie uitleg hieronder)",
-        "parkings": 1,
-        "level": 0,
-        "costs": "300.000 credits / 30 coins",
-        "buidingTime": "Direct",
-        "speedup": "-"
-    },
-    {
-        "type": "Ambulance standplaats",
-        "parkings": "",
-        "level": "",
-        "costs": "100.000 credits / 20 coins",
-        "buidingTime": "7 dagen",
-        "speedup": "10 coins"
-    },
-    {
-        "type": "Waterongevallenbestrijding",
-        "parkings": "",
-        "level": "",
-        "costs": "400.000 credits / 25 coins",
-        "buidingTime": "7 dagen",
-        "speedup": "10 coins"
-    },
-    {
-        "type": "Vliegtuigbrandbestreiding",
-        "parkings": "",
-        "level": "",
-        "costs": "400.000 credits / 25 coins",
-        "buidingTime": "7 dagen",
-        "speedup": "10 coins"
-    },
-    {
-        "type": "Haakarmbakparkeerplaats (container) (10x)",
-        "parkings": "",
-        "level": "",
-        "costs": "400.000 credits / 25 coins",
-        "buidingTime": "7 dagen",
-        "speedup": "10 coins"
-    }
-]
+let BrandweerUitbreidingen = [];
 
-VerwerkBrandweerGebouwen();
+fetch("https://raw.githubusercontent.com/MeldkamerspelGameTeam/Blog/main/Kostenoverzichtv2/Scripts/Data/uitbreidingen_brandweer.json")
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`Brandweeruitbreidingen laden mislukt: ${response.status}`);
+        }
+
+        return response.json();
+    })
+    .then(data => {
+        BrandweerUitbreidingen = data;
+        VerwerkBrandweerGebouwen();
+    })
+    .catch(error => console.error(error));
 
 function VerwerkBrandweerGebouwen() {
-    html = "";
+    let html = "";
 
     html += "<h2>Brandweer Kazerne</h2>"
     html += "<table class='table' id='Rood'>"
@@ -98,7 +37,7 @@ function VerwerkBrandweerGebouwen() {
         temp += "<td>" + uitbreiding.parkings + "</td>";
         temp += "<td>" + uitbreiding.level + "</td>";
         temp += "<td>" + uitbreiding.costs + "</td>";
-        temp += "<td>" + uitbreiding.buidingTime + "</td>";
+        temp += "<td>" + uitbreiding.buildingTime + "</td>";
         temp += "<td>" + uitbreiding.speedup + "</td>";
         temp += "</tr>"
     });

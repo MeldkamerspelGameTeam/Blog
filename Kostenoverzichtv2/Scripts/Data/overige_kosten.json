@@ -1,0 +1,13 @@
+[
+    { "type": "Personeel", "option": "Direct iemand aannemen", "costs": "5 coins" },
+    { "type": "Opleidingen", "option": "Opleiding direct voltooien", "costs": "6 coins" },
+    { "type": "Uitbouw", "option": "Na bouw opdracht direct voltooien", "costs": "10 coins" },
+    { "type": "Inzet", "option": "Inzet direct voltooien", "costs": "2 coins" },
+    { "type": "Grote inzet", "option": "Grote inzet starten", "costs": "10 coins" },
+    { "type": "Team-event", "option": "Team event starten", "costs": "20 coins" },
+    { "type": "Patiënt", "option": "Per direct een patient uit ziekenhuis ontslaan", "costs": "1 coin" },
+    { "type": "Gevangene", "option": "Per direct een gevangende vrijlaten", "costs": "1 coin" },
+    { "type": "Team beginnen", "option": "Een eigen team opzetten", "costs": "25 coins" },
+    { "type": "Team Naam", "option": "Team naam aanpassen", "costs": "10 coins" },
+    { "type": "Gebruikersnaam", "option": "Spelersnaam wijzigen", "costs": "10 coins" }
+]

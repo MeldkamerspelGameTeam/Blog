@@ -1,0 +1,114 @@
+[
+    {
+        "type": "Nieuwbouw",
+        "parkings": 1,
+        "level": 0,
+        "costs": "100.000 credits / 30 coins",
+        "buildingTime": "Direct",
+        "speedup": "-"
+    },
+    {
+        "type": "Uitbouw",
+        "parkings": 1,
+        "level": 1,
+        "costs": "10.000 credits / 10 coins",
+        "buildingTime": "Direct",
+        "speedup": "-"
+    },
+    {
+        "type": "Uitbouw",
+        "parkings": 1,
+        "level": 2,
+        "costs": "50.000 credits / 15 coins",
+        "buildingTime": "Direct",
+        "speedup": "-"
+    },
+    {
+        "type": "Elke volgende uitbouw<br>&emsp;&#8226; maximaal 17 parkeerplaatsen",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "Direct",
+        "speedup": "-"
+    },
+    {
+        "type": "25 Brandweerposten (zie uitleg hieronder)",
+        "parkings": 1,
+        "level": 0,
+        "costs": "300.000 credits / 30 coins",
+        "buildingTime": "Direct",
+        "speedup": "-"
+    },
+    {
+        "type": "Ambulance standplaats",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Waterongevallenbestrijding",
+        "parkings": "-",
+        "level": "-",
+        "costs": "400.000 credits / 25 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Vliegtuigbrandbestrijding",
+        "parkings": "-",
+        "level": "-",
+        "costs": "400.000 credits / 25 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "1 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "2 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "3 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "4 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "5 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "6 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    }
+]
