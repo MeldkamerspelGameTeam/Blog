@@ -60,6 +60,16 @@ const VoertuigGroepen = [
         "table": "Rood"
     },
     {
+        "name": "vi",
+        "display": "Veetakel",
+        "table": "Rood"
+    },
+    {
+        "name": "ri",
+        "display": "Rietdakbrandbestrijding",
+        "table": "Rood"
+    },
+    {
         "name": "politie_opkomst",
         "display": "Politievoertuigen, Opkomstbureau",
         "table": "Blauw"

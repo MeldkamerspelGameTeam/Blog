@@ -64,6 +64,110 @@
         "speedup": "10 coins"
     },
     {
+        "type": "Schuimblussing",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 15 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Signalisatie",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Natuurbrandbestrijding",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 15 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Urban Search & Rescue",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 15 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Specialisme Technische Hulpverlening",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 15 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Grote brandweerkazerne",
+        "parkings": "10",
+        "level": "-",
+        "costs": "1.000.000 credits / 50 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Grootschalige Geneeskundige Bijstand",
+        "parkings": "2",
+        "level": "-",
+        "costs": "200.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Verzorgingseenheid",
+        "parkings": "1",
+        "level": "-",
+        "costs": "150.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Arbeidshygiëne",
+        "parkings": "1",
+        "level": "-",
+        "costs": "150.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Team Digitale Veiligheid",
+        "parkings": "1",
+        "level": "-",
+        "costs": "100.000 credits / 10 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Industriële Brandbestrijding",
+        "parkings": "1",
+        "level": "-",
+        "costs": "150.000 credits / 15 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Incidentbestrijding Gevaarlijke Stoffen",
+        "parkings": "4",
+        "level": "-",
+        "costs": "200.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Incidentenbestrijding spoor",
+        "parkings": "5",
+        "level": "-",
+        "costs": "250.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
         "type": "1 - Haakarmbak parkeerplaats (container)",
         "parkings": "-",
         "level": "-",
@@ -105,6 +209,38 @@
     },
     {
         "type": "6 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "7 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "8 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "9 - Haakarmbak parkeerplaats (container)",
+        "parkings": "-",
+        "level": "-",
+        "costs": "100.000 credits / 20 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "10 - Haakarmbak parkeerplaats (container)",
         "parkings": "-",
         "level": "-",
         "costs": "100.000 credits / 20 coins",

@@ -1,7 +1,90 @@
 [
-    { "type": "Nieuwbouw", "parkings": 1, "level": "-", "costs": "400.000 credits / 40 coins", "buildingTime": "direct", "speedup": "-" },
-    { "type": "Uitbouw OvD-P", "parkings": 1, "level": "-", "costs": "40.000 credits / 5 coins", "buildingTime": "3 dagen", "speedup": "10 coins" },
-    { "type": "Mobiele Eenheid, Sectie", "parkings": 4, "level": "-", "costs": "100.000 credits / 20 coins", "buildingTime": "5 dagen", "speedup": "10 coins" },
-    { "type": "Levende Have", "parkings": 4, "level": "-", "costs": "100.000 credits / 20 coins", "buildingTime": "7 dagen", "speedup": "10 coins" },
-    { "type": "Arrestatieteam", "parkings": 6, "level": "-", "costs": "200.000 credits / 20 coins", "buildingTime": "5 dagen", "speedup": "10 coins" }
+  {
+    "type": "Nieuwbouw",
+    "parkings": 1,
+    "level": "-",
+    "costs": "400.000 credits / 40 coins",
+    "buildingTime": "direct",
+    "speedup": "-"
+  },
+  {
+    "type": "Uitbouw OvD-P",
+    "parkings": 1,
+    "level": "-",
+    "costs": "40.000 credits / 5 coins",
+    "buildingTime": "3 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Mobiele Eenheid, Sectie",
+    "parkings": 4,
+    "level": "-",
+    "costs": "100.000 credits / 20 coins",
+    "buildingTime": "5 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Levende Have",
+    "parkings": 4,
+    "level": "-",
+    "costs": "100.000 credits / 20 coins",
+    "buildingTime": "7 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Arrestatieteam",
+    "parkings": 6,
+    "level": "-",
+    "costs": "200.000 credits / 20 coins",
+    "buildingTime": "5 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Drone Team Politie",
+    "parkings": 1,
+    "level": "-",
+    "costs": "100.000 credits / 10 coins",
+    "buildingTime": "5 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Arrestantenvervoer",
+    "parkings": 2,
+    "level": "-",
+    "costs": "100.000 credits / 10 coins",
+    "buildingTime": "5 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Mobiele Eenheid, Aanhoudingseenheid",
+    "parkings": 1,
+    "level": "-",
+    "costs": "100.000 credits / 20 coins",
+    "buildingTime": "5 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Mobiele Eenheid, 2e Sectie",
+    "parkings": 3,
+    "level": "-",
+    "costs": "100.000 credits / 20 coins",
+    "buildingTime": "7 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Bereden Brigade",
+    "parkings": 6,
+    "level": "-",
+    "costs": "100.000 credits / 20 coins",
+    "buildingTime": "7 dagen",
+    "speedup": "10 coins"
+  },
+  {
+    "type": "Waterwerper Uitbreiding",
+    "parkings": 1,
+    "level": "-",
+    "costs": "100.000 credits / 15 coins",
+    "buildingTime": "4 dagen",
+    "speedup": "10 coins"
+  }
 ]

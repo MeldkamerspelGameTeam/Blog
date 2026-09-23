@@ -38,5 +38,53 @@
         "costs": "25.000 credits / 5 coins",
         "buildingTime": "7 dagen",
         "speedup": "10 coins"
+    },
+    {
+        "type": "Groot politiebureau",
+        "parkings": "10",
+        "level": "-",
+        "costs": "1.000.000 credits / 50 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Grote gevangenis",
+        "parkings": "-",
+        "level": "-",
+        "costs": "200.000 credits / 50 coins",
+        "buildingTime": "7 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "LE - Dienst Infrastructuur",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 15 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Berger-K",
+        "parkings": "1",
+        "level": "-",
+        "costs": "150.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Berger-G",
+        "parkings": "1",
+        "level": "-",
+        "costs": "150.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
+    },
+    {
+        "type": "Team Explosieven Veiligheid",
+        "parkings": "-",
+        "level": "-",
+        "costs": "150.000 credits / 25 coins",
+        "buildingTime": "5 dagen",
+        "speedup": "10 coins"
     }
 ]
