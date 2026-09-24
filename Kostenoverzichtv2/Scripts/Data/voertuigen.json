@@ -1210,7 +1210,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_car.png",
         "afkorting": "DAT-EOD",
         "omschrijving": "Dienstauto terrreinvaardig – Explosieve Opruimingsdienst",
         "vanaf": "",
@@ -1221,7 +1221,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_sprinter.png",
         "afkorting": "DB-EOD",
         "omschrijving": "Dienstbus – Explosieve Opruimingsdienst",
         "vanaf": "",
@@ -1232,7 +1232,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_truck.png",
         "afkorting": "VW-EOD",
         "omschrijving": "Vrachtwagen – Explosieve Opruimingsdienst",
         "vanaf": "",
@@ -1243,7 +1243,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_sprinter.png",
         "afkorting": "DB-Explosievenhonden",
         "omschrijving": "Dienstbus – Explosieve speurhonden",
         "vanaf": "",
@@ -1254,7 +1254,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_sprinter.png",
         "afkorting": "DB-Explosienveduikers",
         "omschrijving": "Dienstbus – Explosievenduikers",
         "vanaf": "",
@@ -1265,7 +1265,7 @@
         "groep": "military"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_boat_trailer.png",
         "afkorting": "BA-DDG",
         "omschrijving": "Bootaanhanger – Defensie Duikgroep",
         "vanaf": "",
@@ -1287,7 +1287,7 @@
         "groep": "military_equipment"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/blue_sprinter.png",
         "afkorting": "DB-TEV",
         "omschrijving": "Dienstbus – Team Explosieven Veiligheid",
         "vanaf": "",
@@ -1386,7 +1386,7 @@
         "groep": "Overige voertuigen"
     },
     {
-        "afbeelding": "",
+        "afbeelding": "https://www.meldkamerspel.com/images/vehicles/green_sprinter.png",
         "afkorting": "DB-DRONE",
         "omschrijving": "Dienstbus – Drone Team Politie",
         "vanaf": "",
